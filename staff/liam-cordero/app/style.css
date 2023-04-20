@@ -1,0 +1,13 @@
+.register {
+
+    background-color: rgb(211, 21, 21);
+    border-radius: 10 px;
+   
+}
+
+.log-in {
+    background-color: yellow ;
+}
+.form {
+    display: flex;
+}
