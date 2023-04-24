@@ -5,9 +5,12 @@
    
 }
 
-.log-in {
+.login {
     background-color: yellow ;
 }
 .form {
     display: flex;
+}
+.off {
+    display: none;
 }
