@@ -105,4 +105,4 @@ console.log(cars3.splice( 1, 4, 'maseratti', 'bugatti'))
 // expect ['renault', 'audi']
 
 console.log(cars3)
-// expect ['vw', 'maseratti', 'bugatti', 'ferrari', 'rimac', 'fiat']
+// expect ['vw', 'maseratti', 'bugatti', 'ferrari', 'rimac', 'fiat]
